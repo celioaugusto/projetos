@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/celioaugusto/projetos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gist.github.com/celioaugusto/6363cb40c8774623a0dd92e1f700df04" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\PythonProjects" />
